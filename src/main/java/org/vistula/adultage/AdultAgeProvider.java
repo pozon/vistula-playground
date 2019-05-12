@@ -7,7 +7,7 @@ public class AdultAgeProvider {
         if (country.equals("")) {
             throw new RuntimeException("Pusty kraj!");
         }
-//elo 420
+//elo 42045645745
         if (country.equals("USA") || country.equals("United States") ){
             return 21;
         }
